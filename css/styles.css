@@ -11,3 +11,56 @@ ul {
 a {
     text-decoration: none;
 }
+
+button {
+    cursor: pointer;
+}
+
+.header {}
+
+.header-nav {}
+
+.logo {}
+
+.logo-link {}
+
+.header-menu-list {}
+
+.header-menu-item {}
+
+.header-menu-link {}
+
+.address {}
+
+.address-list {}
+
+.address-item {}
+
+.address-link {}
+
+
+.hero {}
+
+.hero-title {}
+
+.hero-buy-btn {}
+
+.features-list {}
+
+.features-item {}
+
+.features-subtitle {}
+
+.features-item-text {}
+
+.team {}
+
+.team-title {}
+
+.team-list {}
+
+.team-item {}
+
+.team-item-name {}
+
+.team-item-prof {}
